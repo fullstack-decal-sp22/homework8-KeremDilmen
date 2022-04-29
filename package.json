@@ -1,0 +1,22 @@
+{
+  "name": "homework8-keremdilmen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-decal/homework8-KeremDilmen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack-decal/homework8-KeremDilmen/issues"
+  },
+  "homepage": "https://github.com/fullstack-decal/homework8-KeremDilmen#readme",
+  "dependencies": {
+    "modules": "^0.4.0"
+  }
+}
